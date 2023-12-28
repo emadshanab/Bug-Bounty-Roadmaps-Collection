@@ -1,4 +1,4 @@
-[# Bug-Bounty-Roadmaps-Collection](https://github.com/bittentech/Bug-Bounty-Beginner-Roadmap
+https://github.com/bittentech/Bug-Bounty-Beginner-Roadmap
 
 https://github.com/1ndianl33t/Bug-Bounty-Roadmaps
 
